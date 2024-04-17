@@ -1,5 +1,4 @@
 // /* eslint-disable */
-// test
 import '@babel/polyfill'
 import { login, logout } from './login'
 import { updateSettings } from './updateSettings'
