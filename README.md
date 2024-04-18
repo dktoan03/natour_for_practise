@@ -2,15 +2,14 @@
 Deployed at https://natour-for-practise.onrender.com/  
 Use one of these types of account to explore  
 As an admin:  
-Email: admin@example.com 
-Password: test1234  
+Email: admin@example.com  
 As a lead-guide  
 Email: leadguide@example.com  
 As a guide  
 Email: guide@example.com  
 As a user  
 Email: user@example.com  
-Password: test1234  
+Password for all: test1234  
 Build With  
   NodeJS - JS runtime environment  
   Express - The web framework used  
