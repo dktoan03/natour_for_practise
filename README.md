@@ -2,10 +2,14 @@
 Deployed at https://natour-for-practise.onrender.com/  
 Use one of these types of account to explore  
 As an admin:  
-Eamil: admin@natours.io  
+Eamil: admin@example.com 
 Password: test1234  
+As a lead-guide  
+Email: leadguide@example.com  
+As a guide  
+Email: guide@example.com  
 As a user  
-Email: laura@example.com  
+Email: user@example.com  
 Password: test1234  
 Build With  
 NodeJS - JS runtime environment  
